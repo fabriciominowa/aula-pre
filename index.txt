@@ -1,10 +1,7 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
-<BODY>
-<<<<<<< Updated upstream
-   <H1> TÍTULO1 </H1>
-=======
+<BODY
+
    <H1> GItHubDesktop </H1>
->>>>>>> Stashed changes
 </BODY>
 </HTML>
