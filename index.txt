@@ -4,7 +4,7 @@
 <<<<<<< Updated upstream
    <H1> TÍTULO1 </H1>
 =======
-   <H1> GIT Desktop </H1>
+   <H1> GItHubDesktop </H1>
 >>>>>>> Stashed changes
 </BODY>
 </HTML>
